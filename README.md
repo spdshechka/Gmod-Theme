@@ -1,12 +1,10 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/200x200?text=Logo" alt="Logo" width="200" height="200">
 
-  # 🌀 Project Name (Название твоего аддона)
+  # 🌀 Gmod Theme
 
   <p>
-    Краткое, но емкое описание того, что делает твой аддон/сборка. <br>
-    Например: "Ультимативная система инвентаря для DarkRP с поддержкой MySQL."
+      Это фиолетовая тема для кастомизации Garrys Mod, в черно-фиолетовых цветах в стилистике Glassmorphing
   </p>
 
 <a href="https://github.com/username/repo/stargazers"><img src="https://img.shields.io/github/stars/username/repo?color=yellow&style=flat-square" alt="Stars Badge"/></a>
