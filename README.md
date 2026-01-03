@@ -7,11 +7,11 @@
       Это фиолетовая тема для кастомизации Garrys Mod, в черно-фиолетовых цветах в стилистике Glassmorphing
   </p>
 
-<a href="https://github.com/username/repo/stargazers"><img src="https://img.shields.io/github/stars/username/repo?color=yellow&style=flat-square" alt="Stars Badge"/></a>
-<a href="https://github.com/username/repo/network/members"><img src="https://img.shields.io/github/forks/username/repo?color=orange&style=flat-square" alt="Forks Badge"/></a>
-<a href="https://github.com/username/repo/pulls"><img src="https://img.shields.io/github/issues-pr/username/repo?style=flat-square" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/username/repo/issues"><img src="https://img.shields.io/github/issues/username/repo?style=flat-square" alt="Issues Badge"/></a>
-<a href="https://github.com/username/repo/blob/master/LICENSE"><img src="https://img.shields.io/github/license/username/repo?style=flat-square" alt="License Badge"/></a>
+<a href="https://github.com/spdshechka/repo/stargazers"><img src="https://img.shields.io/github/stars/spdshechka/repo?color=yellow&style=flat-square" alt="Stars Badge"/></a>
+<a href="https://github.com/spdshechka/repo/network/members"><img src="https://img.shields.io/github/forks/spdshechka/repo?color=orange&style=flat-square" alt="Forks Badge"/></a>
+<a href="https://github.com/spdshechka/repo/pulls"><img src="https://img.shields.io/github/issues-pr/spdshechka/repo?style=flat-square" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/spdshechka/repo/issues"><img src="https://img.shields.io/github/issues/spdshechka/repo?style=flat-square" alt="Issues Badge"/></a>
+<a href="https://github.com/spdshechka/repo/blob/master/LICENSE"><img src="https://img.shields.io/github/license/spdshechka/repo?style=flat-square" alt="License Badge"/></a>
 
 </div>
 
