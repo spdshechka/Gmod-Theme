@@ -20,8 +20,9 @@
 ## 📸 Скриншоты и Демонстрация
 
 <div align="center"> 
-  <img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/65e990ca-f885-4375-b497-5069f70cdbdf" />
-  <img src="https://via.placeholder.com/600x300?text=Скриншот+Меню+2" alt="Screenshot 2" width="48%">
+  <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5c4dda66-4334-47f5-ab21-e17284e13073" />
+
+  <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b6dda765-b83e-4aa3-9eeb-08f2e34d5a7a" />
 </div>
 
 <div align="center">
